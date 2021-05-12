@@ -1,0 +1,26 @@
+h1, h3, h4, h5, h6 {
+    font-family: 'Sanchez', serif;
+}
+
+section {
+    /* margin: 2% 0; */
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.container {
+
+    border-bottom: 1px ridge;
+}
+
+.row-content {
+    margin: 2% 0;
+}
+
+footer {
+    border-bottom: 0;
+    background-color: #e9ecef;
+    color:  black;
+    padding: 2% 0 0;
+    margin: 0;
+}
