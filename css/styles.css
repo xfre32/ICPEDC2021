@@ -1,26 +1,37 @@
+body {
+    padding: 50px 0 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar-dark {
+    background-color: #0D4BA0;
+}
+
+.jumbotron {
+    background-color: #E8F1FD;
+}
+
+.table-dark {
+    background-color: #0D4BA0;
+} 
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #E8F1FD;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #E8F1FD;
+}
+
+
+
 h1, h3, h4, h5, h6 {
     font-family: 'Sanchez', serif;
 }
 
-section {
-    /* margin: 2% 0; */
-    font-family: 'Work Sans', sans-serif;
-
-}
-
-.container {
-
-    border-bottom: 1px ridge;
-}
-
-.row-content {
-    margin: 2% 0;
-}
-
 footer {
-    border-bottom: 0;
-    background-color: #e9ecef;
-    color:  black;
+    background-color: #E8F1FD;
+    color:  balc;
     padding: 2% 0 0;
-    margin: 0;
+    margin-bottom: 0;
 }
